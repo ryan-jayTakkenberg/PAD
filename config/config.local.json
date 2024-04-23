@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "timeout": 30000,
+    "username": "root",
+    "password": "What-you-fall-over-for.1512",
+    "database": "oba5",
+    "connectionLimit": 1
+  }
+}

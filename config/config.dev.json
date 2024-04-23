@@ -1,0 +1,11 @@
+{
+  "database": {
+    "host": "db.hbo-ict.cloud",
+    "port": 3366,
+    "timeout": 30000,
+    "username": "pad_oba_5",
+    "password": "8pQUmJtUkgRtSOeh",
+    "database": "pad_oba_5_dev",
+    "connectionLimit": 10
+  }
+}

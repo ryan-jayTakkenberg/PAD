@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+#obaImg {
+    height: auto;
+    max-width: 5em;
+    margin-left: 8rem;
+}
+
+
+.navbar {
+    border-bottom: none !important;
+    padding-top: 0;
+    padding-bottom: 0;
+    background: #ff300b;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, .2);
+}
+
+.navbar-brand {
+    padding-top: 0.9rem;
+}
+
+
+.nav-link {
+    padding: 0 !important;
+    color: white !important;
+    font-size: 15px;
+    font-family: Arial, sans-serif !important;
+}
+
+.nav-item {
+    display: inline-block;
+    background-color: #ff6043;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin-right: 10px;
+}
+
+.nav-item:hover {
+    background-color: #ff421e;
+}
+
+
+body {
+    top: 0 !important;
+    position: static !important;
+}
+
+iframe {
+    display: none;
+}
+
+.goog-te-gadget img {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    color: transparent !important;
+}
+
+.VIpgJd-ZVi9od-l4eHX-hSRGPd {
+    display: none !important;
+}
+
+.goog-te-banner-frame {
+    display: none !important;
+}
+
+#google_translate_element select {
+    background: white;
+    border-radius: 13px;
+    padding: 6px 8px;
+    margin: 1rem 6rem 0 55rem;
+}

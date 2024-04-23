@@ -1,0 +1,59 @@
+.message-box-forBook {
+    height: 45rem;
+    padding: 10px;
+    overflow-y: scroll;
+    margin: 0 15rem 10px 30rem;
+}
+
+#message-box-scrollbar::-webkit-scrollbar {
+    width: 12px;
+}
+
+#message-box-scrollbar::-webkit-scrollbar-track {
+    border-radius: 8px;
+    background: transparent;
+    /*background-color: #e7e7e7;*/
+    /*border: 1px solid #cacaca;*/
+    /*box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);*/
+}
+
+#message-box-scrollbar::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background-color: #D3D3D3;
+}
+
+.input-box {
+    display: flex;
+    align-items: center;
+    margin: 3rem 15rem 1rem 20rem;
+}
+
+.input-box input {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    /*border: none;*/
+    background-color: whitesmoke;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.input-box button {
+    padding: 10px;
+    background-color: #ff300b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    margin-left: 10px;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+img {
+    width: 183px;
+    height: 275px;
+}
+
+.result-element {
+    margin-bottom: 30px
+}
